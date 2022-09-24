@@ -1,0 +1,115 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+
+.header{
+    background: url(https://i.pinimg.com/originals/63/7a/4d/637a4d42e1738853b2f96ffbbd60622a.gif);
+    padding: 5px;
+    text-align:Center;
+    font-size: 200%;
+
+ 
+  }
+  h2{
+    color:rgb(255, 255, 255)
+  }
+  .columnB{
+    float:left;
+    width:33%;
+    padding-left: 40px;
+    text-align:justify;
+    font-family:arial;
+    color: white;
+    padding-top: 20px;
+
+  }
+  
+  .columnA, .columnC{
+    float:left;
+    width:30%;
+    padding:20px;
+    text-align:justify;
+    color: white;
+
+    font-family:arial;
+  }
+  .navM{
+    background: url(https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif);
+    overflow:hidden;
+  }
+  .navA{
+    float:left;
+    display:block;
+    color:white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family:arial;
+  }
+  .navA:hover{
+    background-color:white;
+    font-family:arial;
+    color:green;
+    
+  }
+  .FM{
+    background-color:navy;
+    padding: 15px;
+    text-align:center;
+    overflow:hidden;
+    background-color: #333;
+    clear:left;
+    background: url(https://i.pinimg.com/originals/3d/08/e0/3d08e03cb40252526fee2036a67f07f1.gif);
+  }
+  .fma
+  {
+    display:inline;
+    color:white;
+    padding:14px 16px;
+    text-decoration:none;
+    font-family:arial;
+  }
+  .header1{
+    color:white;
+    font-family: 'Bungee Spice', cursive;
+  }
+  .ang{
+    align-content: center;
+  }
+  .body{
+    background-image: url(https://thumbs.gfycat.com/BiodegradableSevereIbex-size_restricted.gif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+  img{
+    align-items: center;
+    border-bottom-right-radius: 3rem;
+    border-top-left-radius: 3rem;
+    border-color: green;
+    border-width: thick;
+    border-style: solid;
+    
+  }
+
+
+td{
+  color:white;
+  font-size: 50px;
+}
+th{
+  color:white;
+}
+.hr{
+  background-color: orange;
+  font-size: 50px;
+}
+.hr1{
+  background-color: orange;
+  
+}
+.img1{
+  border-width : 0;
+  border-bottom-right-radius: 0;
+  border-top-left-radius: 0;
+}
